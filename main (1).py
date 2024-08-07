@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 # Copyright (C) Anasov <me@anasov.ly> - All Rights Reserved
 # Unauthorized copying of this file, via any medium is strictly prohibited
 # Proprietary and confidential
@@ -12,7 +11,7 @@ from rich.console import Console
 from rich.prompt import Prompt, IntPrompt
 from rich.text import Text
 from rich.style import Style
-from andocpm import andoCPM
+from Cpmcane import andoCPM
 
 __CHANNEL_USERNAME__ = "AndoCPM"
 __GROUP_USERNAME__   = "AndoCPM"
